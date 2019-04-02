@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: PostProcessingVolume Profile
   m_EditorClassIdentifier: 
   settings:
-  - {fileID: 114082713554932668}
---- !u!114 &114082713554932668
+  - {fileID: 114247411868817472}
+--- !u!114 &114247411868817472
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -30,3 +30,6 @@ MonoBehaviour:
   enabled:
     overrideState: 1
     value: 1
+  Blend:
+    overrideState: 1
+    value: 0
